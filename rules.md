@@ -87,7 +87,7 @@ To contest an "Unsupported claim" verdict, you must:
 - Provide your reasoning: If needed, explain as clearly as possible to the referees why this particular cited resource factually backs up the challenged statement. Please prefer as primary sources as possible.
 
 ## Submission limit
-Submissions are capped at 10 per person. However, this can be increased: for every validated challenge, a person can submit another 5 submissions. Once someone's submissions are used up, all further posts will be rejected. For each of the original submissions gets validated, 5 new submissions will become available, but the submitter will have to make new one. This is to ensure that the submitter selects the most potent submissions at their disposal, not just the ones they had originally sent beyond the limit. 
+Submissions are capped at 5 per person. However, this can be increased: for every validated challenge, a person can submit another 3 submissions. Once someone's submissions are used up, all further posts will be rejected. For each of the original submissions gets validated, 5 new submissions will become available, but the submitter will have to make new one. This is to ensure that the submitter selects the most potent submissions at their disposal, not just the ones they had originally sent beyond the limit. 
 
 A note on strategy -- given that the sanity check and referrees may reject submissions for reasons that can be upon resubmission, it is unwise to use all your submissions at once. Make sure to prepare your submissions as carefully as possible and in particular ensure they meet the submission completeness and uniqueness criteria.
 
