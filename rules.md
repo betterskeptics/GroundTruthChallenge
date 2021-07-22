@@ -101,6 +101,15 @@ Once the response time is completed, referees will review both the submission tw
 
 If the referees' view of the original submission is altered by the new evidence, each referee will indicate the reply/replies that helped change their minds. Each referee controls 1/3 of the total award for each reversal, so if all 3 referees point to the same reply, it will receive the full award. If they are split, or if a referee indicates multiple responses as helping change their mind, the award will be split accordingly.
 
+## Qualifying the successful challenges
+One interesting exercise with challenges that pass both rounds will be for referees to qualify the nature of the challenge they pose.
+
+Can it essentially be satisfied with a clarification? Is it a nitpick? Or does it refute a central point of the target quote?
+
+One tool we may use here is Paul Graham's [disagreement hierarchy](http://www.paulgraham.com/disagree.html).
+
+![image](https://user-images.githubusercontent.com/87446842/126705385-4c021d88-aa46-4aee-9e94-d14a62e36ae5.png)
+
 ## Submission limit
 Submissions are capped at 5 per person. However, this can be increased: for every challenge validated in the first round, a person can submit another 3 submissions. Once someone's submissions are used up, all further posts will be rejected.
 
