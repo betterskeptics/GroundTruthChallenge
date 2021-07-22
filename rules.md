@@ -10,7 +10,7 @@ To participate, please read the rules below.
 > Please note: These rules may be reviewed throughout the challenge. This is a *beta* process and we will be closely monitoring throughout to identify improvements or correct flaws. We will make a best effort attempt to communicate any rule changes through the [@BetterSkeptics](https://twitter.com/BetterSkeptics) Twitter account.
 
 ## Summary
-- Submissions of types *Falsification* and *Unsupported Claim* will be accepted starting July 16 2021 at 11pm UTC and ending July 23, 2021 at 11pm UTC or when the $10,000 total has been reached, whichever happens first. Note that the challenge will likely run over for a few days after that deadline, since every challenge validated in the first round opens up a 48h window for responses. (See section 3 on Responses)
+- Submissions of types *Falsification* and *Unsupported Claim* will be accepted starting July 16 2021 at 11pm UTC and ending July 23, 2021 at 11pm UTC or when the $10,000 total has been reached, whichever happens first. See **Submission deadline** heading further down for notes on exceptions. Also note that the challenge will likely run over for a few days after that deadline, since every challenge validated in the first round opens up a 48h window for responses. (See section 3 on Responses)
 - See "Submission rules" below for how to make your submission and claim rewards of $50-$100 depending on the contribution. Any submissions that don't precisely follow the rules will be ignored.
 - Referees will be reviewing submissions on a rolling basis, but will have two more days after the end of submissions, possibly more if required, to process as many entries as possible.
 - Everyone can observe the process by opening [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1nEsf6l_dEv_NQqLvoHYP-eRZ0UmZGqo16uSHub53h9Q/edit#gid=31863150) where all submissions will be entered and reviewed by the referees and volunteers.
@@ -117,6 +117,11 @@ Submissions referring to the same claim and using the same reasoning for Falsifi
 Retweets of already submitted claims will automatically be considered duplicates of the claims submitted. Quote tweets whose content meets the original criteria will be accepted as submissions.
 
 If several challenges are validated against the same claim and succeed past the refutation stage, only the strongest -- or the first one by time of initial submission in the case or identical scores -- will be rewarded. 
+
+## Submission deadline
+All challenges must be submitted before the assigned deadline. However, because referees are unlikely to have reviewed everything before the deadline, there are two exceptions to this rule:
+- If a submitter has hit their limit and gets entries validated *after* the deadline, they get one extra day to submit additional challenges (3 per newly validated claim) they may have.
+- Responses can be submitted anytime within 48 hours of a claim being validated, including if the claim is validated after the deadline has passed.
 
 ## Sanity checking
 The volunteer members will filter submissions on a rolling basis, based on criteria such as completeness/relevancy/spam. Based on this submissions will either be submitted to the referees or discarded. 
