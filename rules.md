@@ -129,8 +129,8 @@ If several challenges are validated against the same claim and succeed past the 
 
 ## Submission deadline
 All challenges must be submitted before the assigned deadline. However, because referees are unlikely to have reviewed everything before the deadline, there are two exceptions to this rule:
-- If a submitter has hit their limit and gets entries validated *after* the deadline, they get one extra day to submit additional challenges (3 per newly validated claim) they may have.
 - Responses can be submitted anytime within 48 hours of a claim being validated, including if the claim is validated after the deadline has passed.
+- If a submitter has hit their limit and gets entries validated *after* the project deadline, they get an extra 24 hours -- counting from any new validations -- to submit additional challenges (3 per newly validated claim) they may have. *Example*: Jane has submitted 5 entries, the max number allowed. They are not reviewed before the project deadline, and one gets validated after the deadline passes. Jane may submit 3 new entries, counting 24h from when her challenge was validated.
 
 ## Sanity checking
 The volunteer members will filter submissions on a rolling basis, based on criteria such as completeness/relevancy/spam. Based on this submissions will either be submitted to the referees or discarded. 
