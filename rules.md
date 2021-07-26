@@ -1,4 +1,4 @@
-[version 1.1.0]
+[version 1.2.0]
 
 # Ground Truth Challenge: The Rules
 These are the rules for our Ground Truth Challenge, an experiment in "quick and dirty" sensemaking. For context and background on the challenge itself, head [here](https://www.betterskeptics.com/launching-the-10k-ground-truth-challenge/).
