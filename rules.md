@@ -34,8 +34,8 @@ We designed this challenge as a two-stage process. In a nutshell:
 We've chosen and transcribed four recent podcasts featuring Bret Weinstein which discussed COVID-19 vaccines and/or Ivermectin. These are:
 - Covid, Ivermectin, and the Crime of the Century. June 1, 2021. [Video](https://odysee.com/@BretWeinstein:f/COVID-Ivermectin-and-the-Crime-of-the-Century-DarkHorse-Podcast-with-Pierre-Kory-Bret-Weinstein:f) - [Transcript](https://www.betterskeptics.com/transcript-covid-ivermectin-and-the-crime-of-the-century-darkhorse-podcast-with-pierre-kory-bret-weinstein/)
 - How to Save the World in Three Easy Steps. June 11, 2021. [Video](https://odysee.com/@BretWeinstein:f/how-to-save-the-world,-in-three-easy:0) - [Transcript](https://www.betterskeptics.com/transcript-how-to-save-the-world-in-three-easy-steps/)
-- Joe Rogan Experience #1671 - Bret Weinstein & Dr. Pierre Kory. June 22, 2021. [Video](https://open.spotify.com/episode/7uVXKgE6eLJKMXkETwcw0D) - [Transcript](https://www.betterskeptics.com/transcript-2/)
-- Bret and Heather 87th DarkHorse Podcast Livestream: We Must Drive this Virus to Extinction. July 12, 2021. [Video](https://www.youtube.com/watch?v=QsUvr8s0qEk) - [Transcript](https://www.betterskeptics.com/transcript/)
+- Joe Rogan Experience #1671 - Bret Weinstein & Dr. Pierre Kory. June 22, 2021. [Video](https://open.spotify.com/episode/7uVXKgE6eLJKMXkETwcw0D) - [Transcript](https://www.betterskeptics.com/transcript-jre-1671-bret-weinstein-dr-pierre-kory/)
+- Bret and Heather 87th DarkHorse Podcast Livestream: We Must Drive this Virus to Extinction. July 12, 2021. [Video](https://www.youtube.com/watch?v=QsUvr8s0qEk) - [Transcript](https://www.betterskeptics.com/transcript-bret-and-heather-87th-darkhorse-podcast-livestream/)
 
 ## Submission types
 There are four types of submissions possible: 
