@@ -104,7 +104,7 @@ If the referees' view of the original submission is altered by the new evidence,
 ## Qualifying the successful challenges
 Once the project ends, referees will qualify the nature of all the challenges that passed both rounds.
 
-Does it refute or invalidate a central claim of the podcast? Is it a nitpick? Does it mainly provide a useful clarification, rather than a falsification? And so forth.
+I.e., for each challenge, referees will assess: Does it refute or invalidate a central claim of the podcast? Is it a nitpick? Does it mainly provide a useful clarification, rather than a falsification? And so forth.
 
 One tool we may use here is Paul Graham's [disagreement hierarchy](http://www.paulgraham.com/disagree.html).
 
