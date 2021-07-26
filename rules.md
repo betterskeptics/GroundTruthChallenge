@@ -10,7 +10,7 @@ To participate, please read the rules below.
 > Please note: These rules may be reviewed throughout the challenge. This is a *beta* process and we will be closely monitoring throughout to identify improvements or correct flaws. We will make a best effort attempt to communicate any rule changes through the [@BetterSkeptics](https://twitter.com/BetterSkeptics) Twitter account.
 
 ## Summary
-- Submissions of types *Falsification* and *Unsupported Claim* will be accepted starting July 16 2021 at 11pm UTC and ending July 23, 2021 at 11pm UTC or when the $10,000 total has been reached, whichever happens first. Note that the challenge will likely run over for a few days after that deadline, since every challenge validated in the first round opens up a 48h window for responses. (See section 3 on Responses)
+- Submissions of types *Falsification* and *Unsupported Claim* will be accepted starting July 16 2021 at 11pm UTC and ending July 23, 2021 at 11pm UTC or when the $10,000 total has been reached, whichever happens first. See **Submission deadline** heading further down for notes on exceptions. Also note that the challenge will likely run over for a few days after that deadline, since every challenge validated in the first round opens up a 48h window for responses. (See section 3 on Responses)
 - See "Submission rules" below for how to make your submission and claim rewards of $50-$100 depending on the contribution. Any submissions that don't precisely follow the rules will be ignored.
 - Referees will be reviewing submissions on a rolling basis, but will have two more days after the end of submissions, possibly more if required, to process as many entries as possible.
 - Everyone can observe the process by opening [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1nEsf6l_dEv_NQqLvoHYP-eRZ0UmZGqo16uSHub53h9Q/edit#gid=31863150) where all submissions will be entered and reviewed by the referees and volunteers.
@@ -101,6 +101,15 @@ Once the response time is completed, referees will review both the submission tw
 
 If the referees' view of the original submission is altered by the new evidence, each referee will indicate the reply/replies that helped change their minds. Each referee controls 1/3 of the total award for each reversal, so if all 3 referees point to the same reply, it will receive the full award. If they are split, or if a referee indicates multiple responses as helping change their mind, the award will be split accordingly.
 
+## Qualifying the successful challenges
+Once the project ends, referees will qualify the nature of all the challenges that passed both rounds.
+
+I.e., for each challenge, referees will assess: Does it refute or invalidate a central claim of the podcast? Is it a nitpick? Does it mainly provide a useful clarification, rather than a falsification? And so forth.
+
+One tool we may use here is Paul Graham's [disagreement hierarchy](http://www.paulgraham.com/disagree.html).
+
+![image](https://user-images.githubusercontent.com/87446842/126705385-4c021d88-aa46-4aee-9e94-d14a62e36ae5.png)
+
 ## Submission limit
 Submissions are capped at 5 per person. However, this can be increased: for every challenge validated in the first round, a person can submit another 3 submissions. Once someone's submissions are used up, all further posts will be rejected.
 
@@ -117,6 +126,11 @@ Submissions referring to the same claim and using the same reasoning for Falsifi
 Retweets of already submitted claims will automatically be considered duplicates of the claims submitted. Quote tweets whose content meets the original criteria will be accepted as submissions.
 
 If several challenges are validated against the same claim and succeed past the refutation stage, only the strongest -- or the first one by time of initial submission in the case or identical scores -- will be rewarded. 
+
+## Submission deadline
+All challenges must be submitted before the assigned deadline. However, because referees are unlikely to have reviewed everything before the deadline, there are two exceptions to this rule:
+- Responses can be submitted anytime within 48 hours of a claim being validated, including if the claim is validated after the deadline has passed.
+- If a submitter has hit their limit and gets entries validated *after* the project deadline, they get an extra 24 hours -- counting from any new validations -- to submit additional challenges (3 per newly validated claim) they may have. *Example*: Jane has submitted 5 entries, the max number allowed. They are not reviewed before the project deadline, and one gets validated after the deadline passes. Jane may submit 3 new entries, counting 24h from when her challenge was validated.
 
 ## Sanity checking
 The volunteer members will filter submissions on a rolling basis, based on criteria such as completeness/relevancy/spam. Based on this submissions will either be submitted to the referees or discarded. 
