@@ -102,9 +102,9 @@ Once the response time is completed, referees will review both the submission tw
 If the referees' view of the original submission is altered by the new evidence, each referee will indicate the reply/replies that helped change their minds. Each referee controls 1/3 of the total award for each reversal, so if all 3 referees point to the same reply, it will receive the full award. If they are split, or if a referee indicates multiple responses as helping change their mind, the award will be split accordingly.
 
 ## Qualifying the successful challenges
-One interesting exercise with challenges that pass both rounds will be for referees to qualify the nature of the challenge they pose.
+Once the project ends, referees will qualify the nature of all the challenges that passed both rounds.
 
-Can it essentially be satisfied with a clarification? Is it a nitpick? Or does it refute a central point of the target quote?
+Does it refute or invalidate a central claim of the podcast? Is it a nitpick? Does it mainly provide a useful clarification, rather than a falsification? And so forth.
 
 One tool we may use here is Paul Graham's [disagreement hierarchy](http://www.paulgraham.com/disagree.html).
 
